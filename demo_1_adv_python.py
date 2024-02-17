@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 # Define login credentials
 username = '910392'
-password = 'Jai@83209320'
+password = '******'
 
 # Construct dictionary containing login credentials
 login_data = {
